@@ -60,7 +60,7 @@ public class SecurePasswordsMain {
     
     //Introduction to program
     public static void intro() {
-      System.out.println("Welcome to my password security tookit.");
+      System.out.println("Welcome to my password security toolkit.");
       System.out.println("This simple java program allows you to improve");
       System.out.println("your password security by generating a strong");
       System.out.println("password, and checking the strength of a given password.");
